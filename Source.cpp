@@ -1,4 +1,4 @@
-//Mehmet Şerefoğlu 201611688
+//Author: Mehmet Şerefoğlu 
 #include "Stack.h"
 #include <string.h>
 
