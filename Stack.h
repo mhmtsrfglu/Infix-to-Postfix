@@ -1,4 +1,4 @@
-//Mehmet Şerefoğlu 201611688
+//Author: Mehmet Şerefoğlu 
 #ifndef _STACK_
 #define _STACK_
 #include <iostream>
